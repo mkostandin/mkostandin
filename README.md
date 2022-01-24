@@ -24,4 +24,4 @@ I am always looking for opportunities to add to my long record of achieving pers
 
 [Bluetooth LE](https://github.com/mkostandin/umass-differencemaker-team)
 
-[React.js, Next.js, Tailwind CSS Resume](https://mattkostandin-resume.netlify.app)
+<!--- [React.js, Next.js, Tailwind CSS Resume](https://mattkostandin-resume.netlify.app) --->
