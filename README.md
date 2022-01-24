@@ -1,4 +1,4 @@
-# Welcome!
+# Hello!
 ### I am Matt Kostandin
 ... and I am a lucky man! I work with a great group of people at BOLD Laser Automation. Producing some of the finest automation systems in the world.
 
@@ -8,8 +8,20 @@ I am always looking for opportunities to add to my long record of achieving pers
 
 ## Field Programmable Gate Arrays(FPGAs)
 
-## App Development
+[FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope)
 
-## Web Development
+[Embedded Industrial Imaging Application](https://github.com/mkostandin/fpga-industrial-imaging)
 
-## Microcontrollers
+## Electrical Design and Documentation
+
+[PCB Design](https://github.com/mkostandin/umass-differencemaker-team)
+
+[Full Documented Machine](https://whatthefpga.com)
+
+## App and Web Development
+
+[BioLink App](https://github.com/mkostandin/differencemaker-team)
+
+[Bluetooth LE](https://github.com/mkostandin/umass-differencemaker-team)
+
+[React.js, Next.js, Tailwind CSS Resume](https://mattkostandin-resume.netlify.app)
