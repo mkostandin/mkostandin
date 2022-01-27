@@ -6,6 +6,10 @@
 
 I began working with optics at UMASS Lowell where I studied lithography and photonics as an intern. Soon after, I was testing products on a workbench with an oscilloscope for one of the leading innovators in LED lighting. By the time I finished my first two degrees, I had already been working as an engineer with industrial lasers for nearly a year and I was hooked.
 
+I have a great time contributing or working on my passion projects here on Github. Thank you for visiting! I hope we get the opportunity to work with eachother.
+
+Happy Coding!
+
 ## Field-Programmable Gate Arrays(FPGAs)
 
 [FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope)
