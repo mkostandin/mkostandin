@@ -8,7 +8,7 @@ I began working with optics at UMASS Lowell where I studied lithography and phot
 
 I am always looking for opportunities to add to my long record of achieving personal goals and exceeding expectations be it joining university teams or working with other students on passion projects using FPGAs, Microcontrollers, or Web Development.
 
-## Field Programmable Gate Arrays(FPGAs)
+## Field-Programmable Gate Arrays(FPGAs)
 
 [FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope)
 
