@@ -22,7 +22,7 @@ I have great fun contributing or working on my passion projects here on Github. 
 
 ## App and Web Development
 
-[BioLink App](https://github.com/mkostandin/differencemaker-team)
+[BioLink App](https://github.com/mkostandin/umass-differencemaker-team)
 
 [Bluetooth LE](https://github.com/mkostandin/umass-differencemaker-team)
 
