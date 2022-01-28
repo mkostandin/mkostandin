@@ -4,7 +4,7 @@
 
 ...and I am a lucky man! I work with a great group of people at BOLD Laser Automation. Producing some of the finest automation systems in the world.
 
-I began working with optics at UMASS Lowell where I studied lithography and photonics as an intern. Soon after, I was testing products on a workbench with an oscilloscope for one of the leading innovators in LED lighting. By the time I finished my first two degrees, I had already been working as an engineer with industrial lasers for nearly a year and I was hooked.
+I began working with optics at UMASS Lowell where I studied lithography and photonics as an intern. Soon after, I was testing products on a workbench with an oscilloscope for one of the leading innovators in LED lighting. By the time I held a degree, I had already been working as an engineer with industrial lasers for nearly a year and I was hooked.
 
 I have great fun working on my passion projects or contributing here on Github. Thank you for visiting my profile and I hope we get the opportunity to collaborate. Happy Coding!
 
