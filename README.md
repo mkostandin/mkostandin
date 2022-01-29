@@ -6,7 +6,7 @@
 
 I began working with optics at UMASS Lowell where I studied lithography and photonics as an intern. Soon after, I was testing products for one of the leading innovators in LED lighting. By the time I held a degree, I had already been working as an engineer with industrial lasers for nearly a year and I was hooked.
 
-I have great fun working on my passion projects or contributing here on Github. Thank you for visiting my profile and I hope we get the opportunity to collaborate. Happy Coding!
+Thank you for visiting my profile and I hope we get the opportunity to collaborate.
 
 ## Field-Programmable Gate Arrays(FPGAs)
 
