@@ -1,6 +1,4 @@
-# Hello!
-
-## Itroduction
+## Introduction
 
 I am a lucky man! I work with a great group of people at BOLD Laser Automation. Producing some of the finest automation systems in the world.
 
