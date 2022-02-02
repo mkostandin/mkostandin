@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a lucky man! I work with a great people at BOLD Laser Automation. Producing some of the finest automation systems in the world.
+I am a lucky man! I work with great people at BOLD Laser Automation. Producing some of the finest automation systems in the world.
 
 I began working with optics at UMASS Lowell where I studied photonics as an intern. Soon after, I was performing photometric testing for one of the leading innovators in LED lighting. By the time I held a degree, I had already been working as an engineer with industrial lasers for nearly a year and I was hooked.
 
