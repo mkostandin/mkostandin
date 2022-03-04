@@ -1,6 +1,4 @@
-## Introduction
-
-I hope we get the opportunity to collaborate.
+# Project Showcase
 
 ## Field-Programmable Gate Arrays(FPGAs)
 
