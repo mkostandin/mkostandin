@@ -10,7 +10,7 @@
 
 [comment]: <> "[PCB Design](https://github.com/mkostandin/umass-differencemaker-team)"
 
-[Full Documented Machine](https://whatthefpga.com)
+[comment]: <> "[Full Documented Machine](https://whatthefpga.com)"
 
 ## App and Web Development
 
