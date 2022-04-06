@@ -26,11 +26,3 @@
 
 ## Machine Learning
 ## Sound Engineering
-#
-#
-##
-##
-###
-###
-####
-####
