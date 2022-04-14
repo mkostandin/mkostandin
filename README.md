@@ -1,4 +1,4 @@
-# Project Showcase
+#
 
 ## Field-Programmable Gate Arrays(FPGAs)
 
