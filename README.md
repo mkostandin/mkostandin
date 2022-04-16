@@ -1,5 +1,5 @@
 # Projects
-*
+**
 ## Field-Programmable Gate Arrays(FPGAs)
 
 [FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope)
