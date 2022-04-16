@@ -1,5 +1,4 @@
 # Projects
-*
 
 ## Field-Programmable Gate Arrays(FPGAs)
 
