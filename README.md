@@ -2,9 +2,9 @@
 
 ## Field-Programmable Gate Arrays(FPGAs)
 
-[FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope)
+<!--- [FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope) --->
 
-[Embedded Industrial Imaging Application](https://github.com/mkostandin/fpga-industrial-imaging)
+<!--- [Embedded Industrial Imaging Application](https://github.com/mkostandin/fpga-industrial-imaging) --->
 
 ## Electrical Design and Documentation
 
@@ -22,7 +22,7 @@
 
 ## Competitive Programming
 
-[leetcode](https://github.com/mkostandin/leetcode)
+<!--- [leetcode](https://github.com/mkostandin/leetcode) --->
 
 ## Machine Learning
 ## Sound Engineering
