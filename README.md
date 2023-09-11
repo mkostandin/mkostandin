@@ -1,13 +1,19 @@
-# Matt Kostandin
+# Welcome to my GitHub!
 
-![](https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif-720.gif)
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif-720.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
+</p>
 
 [What is Cloud Engineering? UML Cloud Computing Club Introduction](https://www.linkedin.com/posts/activity-6916681738769313793-D-5Q?utm_source=share&utm_medium=member_desktop)
 
 [comment]: <> "[Full Documented Machine](https://whatthefpga.com)"
 
 ## Games
-![](https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif)
+
+<p align="center">
+<img src="(https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
+</p>
+![])
 
 ## App and Web Development
 
