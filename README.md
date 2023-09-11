@@ -6,8 +6,8 @@
 
 [comment]: <> "[Full Documented Machine](https://whatthefpga.com)"
 
-##Games
-
+## Games
+![](https://github.com/mkostandin/mkostandin/blob/main/nh-bid-at-mscypaa-gif.gif)
 
 ## App and Web Development
 
