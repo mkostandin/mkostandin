@@ -11,6 +11,9 @@
 
 ## App and Web Development
 
+![](https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif)
+
+
 [comment]: <> "[BioLink App](https://github.com/mkostandin/umass-differencemaker-team)"
 
 [comment]: <> "[Bluetooth LE](https://github.com/mkostandin/umass-differencemaker-team)"
