@@ -1,6 +1,6 @@
 # Projects
 
-![](https://res.cloudinary.com/dftbijomi/image/upload/v1694445032/giphy_dnfl3m.gif)
+![](https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-engineering.gif)
 
 ## Field-Programmable Gate Arrays(FPGAs)
 
