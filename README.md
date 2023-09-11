@@ -11,7 +11,7 @@
 ## Games
 
 <p align="center">
-<img src="(https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
 </p>
 ![])
 
