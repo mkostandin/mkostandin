@@ -13,12 +13,12 @@
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
 </p>
-![])
 
 ## App and Web Development
 
-![](https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif)
-
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="70%"/>
+</p>
 
 [comment]: <> "[BioLink App](https://github.com/mkostandin/umass-differencemaker-team)"
 
