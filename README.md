@@ -1,7 +1,7 @@
 # Welcome to my GitHub!
 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif-720.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif-720.gif" alt="UML Cloud Computing" width="90%"/>
 </p>
 
 [What is Cloud Engineering? UML Cloud Computing Club Introduction](https://www.linkedin.com/posts/activity-6916681738769313793-D-5Q?utm_source=share&utm_medium=member_desktop)
