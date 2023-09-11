@@ -1,5 +1,7 @@
 # Projects
 
+![](https://res.cloudinary.com/dftbijomi/image/upload/v1694445032/giphy_dnfl3m.gif)
+
 ## Field-Programmable Gate Arrays(FPGAs)
 
 <!--- [FPGA Oscilloscope](https://github.com/mkostandin/fpga-oscilloscope) --->
