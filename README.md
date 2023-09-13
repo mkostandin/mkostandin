@@ -14,6 +14,10 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="70%"/>
 </p>
 
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="70%"/>
+</p>
+
 ## Games
 
 <p align="center">
