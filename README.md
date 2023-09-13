@@ -25,6 +25,10 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev1.gif" style="display:block;margin:auto;" alt="FPGA Design" width="40%"/>
 </p>
 
+#Digital Art
+<p align="center">
+<img src="" style="display:block;margin:auto;" alt="FPGA Design" width="70%"/>
+</p>
 [comment]: <> "[BioLink App](https://github.com/mkostandin/umass-differencemaker-team)"
 
 [comment]: <> "[Bluetooth LE](https://github.com/mkostandin/umass-differencemaker-team)"
