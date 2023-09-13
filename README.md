@@ -22,7 +22,7 @@
 
 #FPGA Design
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="70%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev1.gif" style="display:block;margin:auto;" alt="FPGA Design" width="40%"/>
 </p>
 
 [comment]: <> "[BioLink App](https://github.com/mkostandin/umass-differencemaker-team)"
