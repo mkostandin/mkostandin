@@ -26,7 +26,7 @@
 
 ## FPGA Design
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev1.gif" style="display:block;margin:auto;" alt="FPGA Design" width="40%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev23.gif" style="display:block;margin:auto;" alt="FPGA Design" width="40%"/>
 </p>
 
 ## Digital Art
