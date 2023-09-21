@@ -4,16 +4,6 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif-720.gif" alt="UML Cloud Computing" width="80%"/>
 </p>
 
-
-
-<center>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkostandin&show_icons=true&locale=en&layout=compact" alt="mkostandin" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkostandin&" alt="mkostandin" />
-</div>
-  
-
-
 # App Development
 
 <p align="left">
