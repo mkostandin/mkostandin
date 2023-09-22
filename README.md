@@ -39,10 +39,11 @@
   
 ## Applications
 
-#### NECYVERSE
+#### NECYVERSE, Cross-platform Social Media Platform
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="70%"/>
 </p>
+[Published, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app)
 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="70%"/>
