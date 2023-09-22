@@ -5,7 +5,6 @@
 </p>
 
 # App Development
-
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -40,18 +39,18 @@
 ## Applications
 
 ### NECYVERSE, Cross-platform Social Media Platform
+[Published, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="40%"/>
 </p>
 
-[Published, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app)
-
 ### BioLink Devices, Physical Therapy Tracker with Bluetooth Brace
+[React, C++, EasyEDA, PWA](https://github.com/mkostandin/necyverse-app)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="40%"/>
 </p>
 
-[Published, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app)
+
 
 # Games
 
