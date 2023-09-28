@@ -6,8 +6,8 @@
 
 # Applications
 
-### NECYVERSE, Cross-platform Social Media Platform
-[Published, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app)
+### NECYVERSE, Cross-platform Social Media Platform 
+[Published, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
 </p>
