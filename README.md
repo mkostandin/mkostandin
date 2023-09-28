@@ -13,7 +13,7 @@
 </p>
 
 ### SilkyGPT, Chatbot Connected to Large Amount of Domain-specific Data
-[LangeChain, GPT Index, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
+[Published, LangeChain, GPT Index, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/silkygpt-github.gif" style="display:block;margin:auto;" alt="SilkyGPT" width="65%"/>
 </p>
