@@ -7,15 +7,15 @@
 # Applications
 
 ### NECYVERSE, Cross-platform Social Media Platform 
-[Published, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
+[Published, PWA, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
 </p>
 
-### SilkyGPT, Chatbot Connect to Large Domain Specific Data
-[React, C++, EasyEDA, PWA](https://github.com/mkostandin/necyverse-app)
+### SilkyGPT, Chatbot Connected to Large Amount of Domain-specific Data
+[LangeChain, GPT Index, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/silkygpt-github.gif" style="display:block;margin:auto;" alt="SilkyGPT" width="65%"/>
 </p>
 
 ### BioLink Devices, Physical Therapy Tracker with Bluetooth Brace
