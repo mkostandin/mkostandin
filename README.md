@@ -15,7 +15,7 @@
 ### NHSCYPAA XXIV, 150+ Installs Conference App
 [Published, PWA, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscypaa-xxiv-vid.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-xxiv-vid.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
 </p>
 
 ### SilkyGPT, Chatbot Connected to Large Amount of Domain-specific Data
