@@ -12,6 +12,12 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
 </p>
 
+### NHSCYPAA XXIV, 150+ Installs Conference App
+[Published, PWA, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscypaa-xxiv-vid.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
+</p>
+
 ### SilkyGPT, Chatbot Connected to Large Amount of Domain-specific Data
 [Published, LangeChain, GPT Index, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
 <p align="center">
