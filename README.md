@@ -33,7 +33,8 @@
 
 
 # Games
-
+### NH Bid at MSCYPAA: The Game, Cross-platform User Submitted Events App
+[Published, Electron, Node.js, JavaScript, AWS Amplify, GDevelop, HTML5](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="65%"/>
 </p>
