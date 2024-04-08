@@ -15,11 +15,11 @@
 ### NHSCYPAA XXIV, 150+ Installs Conference App
 [Published, Flutter, Dart, Firebase, Cloud Messaging, AWS Amplify](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-xxiv-vid.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-xxiv-vid2.gif" style="display:block;margin:auto;" alt="NHSCYPAA" width="65%"/>
 </p>
 
-### SilkyGPT, Chatbot Connected to Large Amount of Domain-specific Data
-[Published, LangeChain, GPT Index, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
+### SilkyGPT, 1st Artificial Intelligence for Recovery
+[Published, LangeChain, LlamaIndex, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/silky-github.gif" style="display:block;margin:auto;" alt="SilkyGPT" width="65%"/>
 </p>
