@@ -1,4 +1,3 @@
-# Matt Kostandin
 # Electrical Engineer. Developer. Student.
 [What is Cloud Engineering? UML Cloud Computing Club 2023 Kickoff - Matt Kostandin](https://www.linkedin.com/posts/activity-6916681738769313793-D-5Q?utm_source=share&utm_medium=member_desktop)
 <p align="center">
