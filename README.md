@@ -15,7 +15,7 @@
 </p>
 
 ### NHSCYPAA XXIV, 150+ Installs Conference App
-[Published, Flutter, Dart, Firebase, Cloud Messaging, AWS Amplify](https://github.com/mkostandin/necyverse-app) 
+[Published, Flutter, Dart, Firebase, Cloud Messaging, AWS Amplify](https://github.com/mkostandin/nhscypaa-xxiv-app) 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-xxiv-vid2.gif" style="display:block;margin:auto;" alt="NHSCYPAA" width="65%"/>
 </p>
