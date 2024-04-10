@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif-720.gif" alt="UML Cloud Computing" width="65%"/>
 </p>
+
 [UML Cloud Computing Repository](https://github.com/UMLCloudComputing)
 
 # Applications
