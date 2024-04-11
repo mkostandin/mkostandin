@@ -1,5 +1,5 @@
 # Electrical Engineer. Developer. Student.
-[What is Cloud Computing? UML Cloud Computing Club 2023 Kick-off](https://www.youtube.com/watch?v=tMGXBKipNLM))
+[What is Cloud Computing? UML Cloud Computing Club 2023 Kick-off](https://www.youtube.com/watch?v=tMGXBKipNLM)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif.gif" alt="UML Cloud Computing" width="65%"/>
 </p>
