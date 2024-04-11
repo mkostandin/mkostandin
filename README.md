@@ -43,7 +43,7 @@
 
 ## Generative AI
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.mp4" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.gif" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
 </p>
 
 # FPGA Design
