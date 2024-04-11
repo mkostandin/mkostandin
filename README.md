@@ -42,8 +42,9 @@
 </p>
 
 ## Generative AI
+[Python, Google Collab, HuggingFace, ModelScope, Stable Diffusion, Deforum](https://www.youtube.com/watch?v=mKrf0bdS7cw)
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.gif" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.gif" style="display:block;margin:auto;" alt="Generative AI" width="65%"/>
 </p>
 
 # FPGA Design
