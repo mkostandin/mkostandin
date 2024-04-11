@@ -47,12 +47,17 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.gif" style="display:block;margin:auto;" alt="Generative AI" width="65%"/>
 </p>
 
-# FPGA Design
+# Electrical Engineering
+[AutoCad Electrical, EasyEDA, FPGA Design and Verification, Xilinx, Altera, Electrical Enclosure Design](https://github.com/mkostandin/fpga-oscilloscope)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev23.gif" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
 </p>
 
+# Video Production
+[Adobe After Effects, Adobe Premiere Pro, Cinema4D Lite](https://youtu.be/fNBzLwPK3Hg)
+
 # Digital Art
+[ProCreate, Adobe PhotoShop]()
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/digital-art-v1.gif" style="display:block;margin:auto;" alt="Digital Art" width="65%"/>
 </p>
