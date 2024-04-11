@@ -27,7 +27,7 @@
 </p>
 
 ### BioLink Devices, Physical Therapy Tracker with Bluetooth Brace
-[React, C++, Ionic 5, BLE, EasyEDA, PWA](https://github.com/mkostandin/necyverse-app](https://github.com/mkostandin/biolink-app)
+[React, C++, Ionic 5, BLE, EasyEDA, PWA](https://github.com/mkostandin/biolink-app)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="65%"/>
 </p>
