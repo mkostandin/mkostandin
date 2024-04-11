@@ -1,7 +1,7 @@
 # Electrical Engineer. Developer. Student.
 [What is Cloud Computing? UML Cloud Computing Club 2023 Kick-off](https://www.youtube.com/watch?v=tMGXBKipNLM)
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif.gif" alt="UML Cloud Computing" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/what-is-cloud-gif.gif" alt="UML Cloud Computing" width="75%"/>
 </p>
 
 [UML Cloud Computing Repository](https://github.com/UMLCloudComputing)
@@ -11,13 +11,13 @@
 ### NECYVERSE, Cross-platform User Submitted Events App
 [Published, PWA, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="75%"/>
 </p>
 
 ### NHSCYPAA XXIV, 150+ Installs Conference App
 [Published, Flutter, Dart, Firebase, Cloud Messaging, AWS Amplify](https://github.com/mkostandin/nhscypaa-xxiv-app) 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-xxiv-vid2.gif" style="display:block;margin:auto;" alt="NHSCYPAA" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-xxiv-vid2.gif" style="display:block;margin:auto;" alt="NHSCYPAA" width="75%"/>
 </p>
 
 ### SilkyGPT, 1st Artificial Intelligence for Recovery
