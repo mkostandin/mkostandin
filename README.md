@@ -41,6 +41,11 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="65%"/>
 </p>
 
+## Generative AI
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.mp4" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
+</p>
+
 # FPGA Design
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev23.gif" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
@@ -48,5 +53,5 @@
 
 # Digital Art
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/digital-art-v1.gif" style="display:block;margin:auto;" alt="Digital Art" width="40%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/digital-art-v1.gif" style="display:block;margin:auto;" alt="Digital Art" width="65%"/>
 </p>
