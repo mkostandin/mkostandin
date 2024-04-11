@@ -36,7 +36,7 @@
 
 # Games
 ### NH Bid at MSCYPAA: The Game, 2D Timed Challenge with Leaderboard
-[Published, Electron, Node.js, JavaScript, AWS Amplify, GDevelop, HTML5](https://github.com/mkostandin/necyverse-app) 
+[Published, Electron, Node.js, JavaScript, AWS Amplify, GDevelop, HTML5]([https://github.com/mkostandin/nh-bid-at-mscypaa) 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="75%"/>
 </p>
