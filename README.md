@@ -53,8 +53,12 @@
 <img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev23.gif" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
 </p>
 
-# Video Production
+# Video Effects and Composition
 [Adobe After Effects, Adobe Premiere Pro, Cinema4D Lite](https://youtu.be/fNBzLwPK3Hg)
+
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/vader-hallway-gif.gif" style="display:block;margin:auto;" alt="Vader Hallway" width="65%"/>
+</p>
 
 # Digital Art
 [ProCreate, Adobe PhotoShop]()
