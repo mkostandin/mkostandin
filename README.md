@@ -29,7 +29,7 @@
 ### BioLink Devices, Physical Therapy Tracker with Bluetooth Brace
 [React, C++, Ionic 5, BLE, EasyEDA, PWA](https://github.com/mkostandin/biolink-app)
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink" width="75%"/>
 </p>
 
 
@@ -38,30 +38,30 @@
 ### NH Bid at MSCYPAA: The Game, 2D Timed Challenge with Leaderboard
 [Published, Electron, Node.js, JavaScript, AWS Amplify, GDevelop, HTML5](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-footage-4-gif.gif" style="display:block;margin:auto;" alt="UML Cloud Computing" width="75%"/>
 </p>
 
-## Generative AI
+# Generative AI
 [Python, Google Collab, HuggingFace, ModelScope, Stable Diffusion, Deforum](https://www.youtube.com/watch?v=mKrf0bdS7cw)
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.gif" style="display:block;margin:auto;" alt="Generative AI" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/gen-ai-linked_gif.gif" style="display:block;margin:auto;" alt="Generative AI" width="75%"/>
 </p>
 
 # Electrical Engineering
 [AutoCad Electrical, EasyEDA, FPGA Design and Verification, Xilinx, Altera, Electrical Enclosure Design](https://github.com/mkostandin/fpga-oscilloscope)
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev23.gif" style="display:block;margin:auto;" alt="FPGA Design" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/fpga-rev23.gif" style="display:block;margin:auto;" alt="FPGA Design" width="75%"/>
 </p>
 
 # Video Effects and Composition
 [Adobe After Effects, Adobe Premiere Pro, Cinema4D Lite](https://youtu.be/fNBzLwPK3Hg)
 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/vader-hallway-gif.gif" style="display:block;margin:auto;" alt="Vader Hallway" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/vader-hallway-gif.gif" style="display:block;margin:auto;" alt="Vader Hallway" width="75%"/>
 </p>
 
 # Digital Art
 [ProCreate, Adobe PhotoShop]()
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/digital-art-v1.gif" style="display:block;margin:auto;" alt="Digital Art" width="65%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/digital-art-v1.gif" style="display:block;margin:auto;" alt="Digital Art" width="75%"/>
 </p>
