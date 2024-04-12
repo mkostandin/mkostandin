@@ -9,7 +9,7 @@
 # Applications
 
 ### NECYVERSE, Cross-platform User Submitted Events App
-[Published, PWA, Three.js, Express.js, GCP, AWS Cloudfront, Cloudinary](https://github.com/mkostandin/necyverse-app) 
+[Published, AWS Cloudfront, GCP, JavaScript, Express.js, Three.js, Cloudinary, PWA](https://github.com/mkostandin/necyverse-app) 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/necyverse-gif.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="75%"/>
 </p>
