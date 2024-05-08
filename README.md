@@ -21,7 +21,7 @@
 </p>
 
 ### SilkyGPT, 1st Artificial Intelligence for Recovery
-[Published, LangeChain, LlamaIndex, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
+[Published, LangChain, LlamaIndex, OpenAI APi, Flutter, Python, Dart, TypeScript](https://github.com/mkostandin/silkygpt-flutter-app/tree/main)
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/silky-github.gif" style="display:block;margin:auto;" alt="SilkyGPT" width="75%"/>
 </p>
